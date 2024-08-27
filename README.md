@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=4929F7FF&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=This%20is%20성민's%20Github)](https://git.io/typing-svg)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjsals45)](https://solved.ac/dnjsals45/)
+
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:dnjsals45@gmail.com">
